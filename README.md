@@ -95,11 +95,3 @@ kubectl --kubeconfig /home/ubuntu/.kube/config get pods -A
 * **Pod Network Issues**: Ensure `192.168.0.0/16` pod network does not overlap with existing network.
 
 ---
-
-## License
-
-MIT License
-
----
-
-If you want, I can also create a **more visual diagram** showing how the masters, workers, and control plane endpoint interact for this cluster. It makes the README much more intuitive. Do you want me to do that?
